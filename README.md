@@ -5,7 +5,7 @@ Bidirectional RNN for sentiment classification with 3 classfication (pos/neg/uns
 
 Neural machine translation (NMT) using RNN bidirectional with Attention decoder (Added test based on bleu score with training)
 ...
-and comments in on the files based on my understandings
+and comments in all the files based on my understanding
 
 Using details :
 
